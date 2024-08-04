@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4336074e.gif)My name is Aryan Kate
+![Banner](https://github.com/user-attachments/assets/d94894e1-77ab-48bd-927a-6d3ffd05350a)
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aryan Kate
 ==================================================================================================================================
 
 
@@ -9,6 +11,7 @@ Aspiring Data Scientist & an AIML enthusiast
 * 👨‍🎓  3rd Year B.Tech Artificial Intelligence & Data Science
 * ✉️  You can contact me at [aryankkate@gmail.com](mailto:aryankkate@gmail.com)
 * ❓  Ask me anything related to Data Analytics
+
 * 🧠  I'm learning NLP & LLMs
 * 🤝  I'm open to collaborating on ML & DS related projects
 * ⚡  I like to play Guitar,Piano & go Biking in my leisure time
