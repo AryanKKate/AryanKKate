@@ -1,6 +1,6 @@
 ![Banner](https://github.com/user-attachments/assets/d94894e1-77ab-48bd-927a-6d3ffd05350a)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aryan Kate
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Aryan Kate
 ==================================================================================================================================
 
 
