@@ -8,12 +8,12 @@ Aspiring Data Scientist & an AIML enthusiast
 --------------------------------------------
 
 * 🌍  I'm based in Mumbai,India
-* 👨‍🎓  3rd Year B.Tech Artificial Intelligence & Data Science
-* 👨‍💻  Jr.Technical Officer at Indian Society of Technical Education,VESIT 
+* 👨‍🎓  4th Year B.Tech Artificial Intelligence & Data Science
+* 👨‍💻  Sr.Technical Officer at Indian Society of Technical Education,VESIT 
 * ✉️  You can contact me at [aryankkate@gmail.com](mailto:aryankkate@gmail.com)
-* ❓  Ask me anything related to Data Analytics
+* ❓  Ask me anything related to Data Analytics, Machine Learning
 
-* 🧠  I'm learning NLP & LLMs
+* 🧠  I'm learning Agentic AI
 * 🤝  I'm open to collaborating on ML & DS related projects
 * ⚡  I like to play Guitar,Piano & go Biking in my leisure time
 
