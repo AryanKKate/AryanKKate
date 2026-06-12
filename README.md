@@ -1,5 +1,5 @@
 # 👋 Hi there, I am Aryan Kate
-🌍  A Data Scientist based in Mumbai,India<br><br>👨‍🎓 4th Year B.Tech Artificial Intelligence & Data Science<br><br>👨‍💻 Sr.Technical Officer at Indian Society of Technical Education,VESIT<br><br>🏢 Ex Intern @Saint Gobain, @Mumbai Municipal Corporation, @ASCENTech <br><br>✉️  You can contact me at aryankkate@gmail.com<br><br>❓ Ask me anything related to Data Analytics, Machine Learning<br><br>🧠  I'm learning Agentic AI<br><br>🤝  I'm open to collaborating on ML & DS related projects<br><br>⚡  I like to play Guitar,Piano & go Biking in my leisure time
+🌍  A Data Scientist based in Mumbai,India<br><br>👨‍🎓 B.E in Artificial Intelligence & Data Science<br><br>👨‍💻 Sr.Technical Officer at Indian Society of Technical Education,VESIT<br><br>🏢 Ex Intern @Saint Gobain, @Mumbai Municipal Corporation, @ASCENTech <br><br>✉️  You can contact me at aryankkate@gmail.com<br><br>❓ Ask me anything related to Data Analytics, Machine Learning<br><br>🧠  I'm learning Agentic AI<br><br>🤝  I'm open to collaborating on ML & DS related projects<br><br>⚡  I like to play Guitar,Piano & go Biking in my leisure time
 
 
 ## 🌐 Socials:
